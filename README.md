@@ -4,6 +4,4 @@
 
 Leitor de pensamentos. SKYNET é uma realidade... 
 
-<img src="screenshot.png" width="300" alt="Screenshot do app">
-
 </div>
